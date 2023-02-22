@@ -12,3 +12,4 @@
 - Checkbox
 - Switch
 - Rating
+- Autocomplete
