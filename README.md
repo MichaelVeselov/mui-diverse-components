@@ -23,3 +23,12 @@
 - Breadcrumbs
 - Drawer
 - Speed Dial
+- Bottom Navigation
+- Avatar
+- Badge
+- List
+- Chip
+- Tooltip
+- Table
+- Alert
+- Snackbar
