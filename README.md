@@ -32,3 +32,5 @@
 - Table
 - Alert
 - Snackbar
+- Dialog
+- Progress
