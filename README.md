@@ -6,9 +6,9 @@
 
 - Typography
 - Button
-- Text field
+- Text Field
 - Select
-- Radio button
+- Radio Button
 - Checkbox
 - Switch
 - Rating
@@ -34,3 +34,11 @@
 - Snackbar
 - Dialog
 - Progress
+- Skeleton
+- Loading Button
+- Date Time Picker
+- Date Range Picker
+- Tabs
+- Timeline
+- Masonry
+- Responsiveness
